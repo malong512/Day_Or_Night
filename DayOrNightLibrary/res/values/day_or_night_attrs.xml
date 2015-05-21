@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="day_or_night">
+
+        <attr name="dayAlpha" format="float" />
+        <attr name="nightAlpha" format="float" />
+        <attr name="dayTextColor" format="color" />
+        <attr name="nightTextColor" format="color" />
+      	<attr name="dayHintTextColor" format="color" />
+        <attr name="nightHintTextColor" format="color" /> 
+        <attr name="dayBackground" format="reference|color" />
+        <attr name="nightBackground" format="reference|color" />
+    </declare-styleable>
+
+</resources>
