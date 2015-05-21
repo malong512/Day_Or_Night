@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DayOrNightDome</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">这是一个夜间模式的Demo！</string>
+    <string name="day_or_night">夜间(点我阿～)</string>
+    <string name="text_hint">输入关键词</string>
+    <string name="item_title">IT江湖小熊</string>
+    <string name="item_dec">这是一个展示list item 夜间模式的demo</string>
+
+</resources>

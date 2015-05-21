@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="slide_menu_text">#959595</color>
+    <color name="slide_menu_text_selected">#0842a6</color>
+
+</resources>
